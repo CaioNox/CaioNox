@@ -1,5 +1,5 @@
 <p align="center">
-    <h1>Caio Alves</h1>
+    <h1>👨‍💻 Caio "Nox" Alves</h1>
     <p>Estudante de Análise e Desenvolvimento de Sistemas | Estágio | Desenvolvedor Junior</p>
 </p>
 
