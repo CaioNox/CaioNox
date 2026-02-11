@@ -1,6 +1,6 @@
 <p align="center">
     <h1>👨‍💻 Caio "Nox" Alves</h1>
-    <p>Estudante de Análise e Desenvolvimento de Sistemas | Estágio | Desenvolvedor Junior</p>
+    <p> Estágio | Desenvolvedor Junior</p>
 </p>
 
 <p align="center">
