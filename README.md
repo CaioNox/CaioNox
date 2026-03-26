@@ -71,12 +71,12 @@ quote       : "I don't just write code — I engineer solutions that scale."
 ---
 
 ## `> taskmgr` — GitHub Stats
-
+<!--
 <div align="center">
   <img height="170" src="http://github-readme-stats-rho-ten-52.vercel.app/api?username=CaioNox" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioNox&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
-
+-->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CaioNox&theme=tokyo-night&hide_border=true&color=00FF41&line=7c3aed&point=f59e0b&bg_color=0d1117" />
 </div>
