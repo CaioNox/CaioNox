@@ -10,7 +10,7 @@
 ║  C:\Users\Nox> INITIALIZING PROFILE...                      ║
 ║  > Loading modules: backend / AI / devops                   ║
 ║  > Status: SEEKING OPPORTUNITIES                            ║
-║  > Build: 20 y/o · Brazil · Systems Analysis & Dev         ║
+║  > Build: 22 y/o · Brazil · Systems Analysis & Dev         ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
